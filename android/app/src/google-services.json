@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "629723980628",
-    "project_id": "discmania-90d14",
-    "storage_bucket": "discmania-90d14.appspot.com"
+    "project_number": "505530248813",
+    "project_id": "disckonto-4762e",
+    "storage_bucket": "disckonto-4762e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:629723980628:android:4c15be4103e23a5e6c9ec1",
+        "mobilesdk_app_id": "1:505530248813:android:2ae66d29fa9639d6051964",
         "android_client_info": {
           "package_name": "com.example.discmania"
         }
       },
       "oauth_client": [
         {
-          "client_id": "629723980628-0o8he05d6o33rm31m6d0el40lohfg7t7.apps.googleusercontent.com",
+          "client_id": "505530248813-9dv884oc9dgr1jqok9fqpfol1lnlsc40.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCNmzf723dlDdc01c03e_hdkVUteyqRFv8"
+          "current_key": "AIzaSyCHGmfhfq3497jASMt352hSQs74qwmyD94"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "629723980628-0o8he05d6o33rm31m6d0el40lohfg7t7.apps.googleusercontent.com",
+              "client_id": "505530248813-9dv884oc9dgr1jqok9fqpfol1lnlsc40.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

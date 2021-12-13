@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
-              SizedBox(height: 150, child: Text("here is a picture"),),
+              SizedBox(height: 150, child: Text("fet bild av slottis"),),
               Text(
                 "Welcome back",
                 style: TextStyle(
