@@ -23,6 +23,8 @@ class _LoginScreenState extends State<LoginScreen> {
 
 //firebase
 final _auth = FirebaseAuth.instanceFor;
+ // FirebaseAuth auth = FirebaseAuth.instance;
+
 
 
 
@@ -39,17 +41,11 @@ final _auth = FirebaseAuth.instanceFor;
           {
             return "Please enter your email";
           }
-
-          //reg expression for email validation
           if(!RegExp("^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+.[a-z]").hasMatch(value))
           {
-
           return ("Please enter valid email");
           }
-
           return null;
-        
-
         },
         onSaved: (value) {
           emailController.text = value!;
@@ -73,16 +69,11 @@ final _auth = FirebaseAuth.instanceFor;
             if(value!.isEmpty) {
 
               return("Password is required");
-
             } 
-
             if(!regex.hasMatch(value))
             {
               return("PLease enter valid passowrd (Min 6 characters");
             }
-
-
-
         },
 
         onSaved: (value) {

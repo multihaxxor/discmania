@@ -1,4 +1,4 @@
-/*
+
 
 class UserModel {
   String? uid;
@@ -37,4 +37,3 @@ Map<String, dynamic> toMap() {
 
 }
 
-*/
